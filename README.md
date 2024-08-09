@@ -12,7 +12,7 @@ Just clone this repo, cd into it and run script just like so...
 
 ```Bash
 git clone https://github.com/DarkXero-dev/AuroraGrub.git
-cd AuroraGrub/ && sh Grub.sh
+cd AuroraGrub/ && sudo ./Grub.sh
 ```
 
 Enjoy ;)
