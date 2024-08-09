@@ -1,10 +1,8 @@
 # Aurora Grub
 
-Grub Theme For Aurora
-
 ### Info
 
-I have created this theme for [**Aurora**](https://getaurora.dev). Feel free to use it. Theme is based on [**NoiceGRUB**](https://github.com/1337kid/NoiceGRUB/). I just added the **Aurora** logo blending it in nicely.
+I have created this **Grub** theme for [**Aurora**](https://getaurora.dev). Feel free to use it. Theme is based on [**NoiceGRUB**](https://github.com/1337kid/NoiceGRUB/). I just added the **Aurora** logo blending it in nicely.
 
 ![Preview](https://i.imgur.com/InPIpgd.png)
 
